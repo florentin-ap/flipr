@@ -11,3 +11,6 @@ change_pass [users appschema] 2021-12-10T08:32:42Z florentin.purnama <florentin.
 flips [appschema users] 2021-12-10T08:46:11Z florentin.purnama <florentin.purnama@traveloka.com> # Adds table for storing flips.
 insert_flip [flips appschema users] 2021-12-10T09:32:19Z florentin.purnama <florentin.purnama@traveloka.com> # Add function to insert flip
 delete_flip [flips appschema users] 2021-12-10T09:33:09Z florentin.purnama <florentin.purnama@traveloka.com> # add function to delete flip
+pgcrypto 2021-12-10T09:48:51Z florentin.purnama <florentin.purnama@traveloka.com> # add pgcrypto function
+insert_user [insert_user@v1.0.0-dev1 pgcrypto] 2021-12-10T09:59:36Z florentin.purnama <florentin.purnama@traveloka.com> # Change insert_user to use pgcrypto.
+change_pass [change_pass@v1.0.0-dev1 pgcrypto] 2021-12-10T10:12:24Z florentin.purnama <florentin.purnama@traveloka.com> # Change change_pass to use pgcrypto.
