@@ -4,3 +4,5 @@
 
 appschema 2021-12-10T07:33:57Z florentin.purnama <florentin.purnama@traveloka.com> # Add schema for all flipr objects.
 users [appschema] 2021-12-10T08:21:42Z florentin.purnama <florentin.purnama@traveloka.com> # Creates table to track our users.
+insert_user [users appschema] 2021-12-10T08:32:01Z florentin.purnama <florentin.purnama@traveloka.com> # Creates a function to insert a user.
+change_pass [users appschema] 2021-12-10T08:32:42Z florentin.purnama <florentin.purnama@traveloka.com> # Creates a function to change a user password.
