@@ -9,3 +9,5 @@ change_pass [users appschema] 2021-12-10T08:32:42Z florentin.purnama <florentin.
 @v1.0.0-dev1 2021-12-10T08:41:42Z florentin.purnama <florentin.purnama@traveloka.com> # Tag v1.0.0-dev1.
 
 flips [appschema users] 2021-12-10T08:46:11Z florentin.purnama <florentin.purnama@traveloka.com> # Adds table for storing flips.
+insert_flip [flips appschema users] 2021-12-10T09:32:19Z florentin.purnama <florentin.purnama@traveloka.com> # Add function to insert flip
+delete_flip [flips appschema users] 2021-12-10T09:33:09Z florentin.purnama <florentin.purnama@traveloka.com> # add function to delete flip
