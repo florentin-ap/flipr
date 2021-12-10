@@ -7,5 +7,3 @@ users [appschema] 2021-12-10T08:21:42Z florentin.purnama <florentin.purnama@trav
 insert_user [users appschema] 2021-12-10T08:32:01Z florentin.purnama <florentin.purnama@traveloka.com> # Creates a function to insert a user.
 change_pass [users appschema] 2021-12-10T08:32:42Z florentin.purnama <florentin.purnama@traveloka.com> # Creates a function to change a user password.
 @v1.0.0-dev1 2021-12-10T08:41:42Z florentin.purnama <florentin.purnama@traveloka.com> # Tag v1.0.0-dev1.
-
-flips [appschema users] 2021-12-10T08:46:11Z florentin.purnama <florentin.purnama@traveloka.com> # Adds table for storing flips.
